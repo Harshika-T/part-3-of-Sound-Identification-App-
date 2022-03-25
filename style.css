@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(255, 200, 111);
+    font-family:'Courgette', cursive; 
+    text-align:center;
+}
+
+.header_div{
+    font-family: 'Courgette', cursive;
+    background-color:cadetblue;
+}
+
+.header_div p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 200;
+    font-size:large;
+    letter-spacing:2px;
+    color: black; 
+}
+
+
+.copy_right_footer{
+    position: center;
+    color: black;
+    bottom:0;
+    width:100%;
+    font-size:large;
+    background-color:rgb(112, 167, 255);
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 110, 182)
+}
